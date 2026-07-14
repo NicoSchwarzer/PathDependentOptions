@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1782753533 source:c:\users\computer\documents\fin_math\year2\nm\graded assessments\assignemnt2\assessment2\binmodel02.cpp
+	"BinModel02.h"
+	<iostream>
+	<cmath>
+
+1782753358 c:\users\computer\documents\fin_math\year2\nm\graded assessments\assignemnt2\assessment2\binmodel02.h
+
+1782753343 source:c:\users\computer\documents\fin_math\year2\nm\graded assessments\assignemnt2\assessment2\main.cpp
+	<iostream>
+
